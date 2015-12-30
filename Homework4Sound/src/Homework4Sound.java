@@ -19,6 +19,7 @@ import audio.RecordTask;
  * @author pzoli
  *         http://docs.oracle.com/javase/tutorial/sound/sampled-overview.html
  *         http://www.jsresources.org/examples/AudioDecoder.html
+ *         http://tritonus.org/plugins.html
  *         
  */
 public class Homework4Sound {
